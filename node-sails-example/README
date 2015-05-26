@@ -1,0 +1,7 @@
+A demo of how to use the "node" module providing node.js.
+
+The demo opens a Web server on port 1337 serving the default sails page created
+by sails new <app>.
+
+To build this demo, you need "npm" to be installed on your host (e.g.,
+on Fedora, just do "yum install npm").
